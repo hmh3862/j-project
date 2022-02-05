@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package kr.green.maven.List;
 
 import java.util.ArrayList;
@@ -64,4 +63,3 @@ public class List3 {
 		System.out.println(list.size() + " : " + list);
 	}
 }
->>>>>>> refs/remotes/origin/master
