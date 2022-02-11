@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>데이터베이스 설정 파일</comment>
+<entry key="password">123456</entry>
+<entry key="userid">top2blue</entry>
+<entry key="db">oracle</entry>
+<entry key="username">최고관리자</entry>
+</properties>
