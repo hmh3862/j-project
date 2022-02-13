@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<classVO>
+    <name>진달래반</name>
+    <list>
+        <PersonVO age="25">
+            <name>한사람</name>
+            <gender>남자</gender>
+            <register>2021년 12월 09일 12:49:22</register>
+        </PersonVO>
+        <PersonVO age="11">
+            <name>두사람</name>
+            <gender>남자</gender>
+            <register>2021년 12월 09일 12:49:22</register>
+        </PersonVO>
+        <PersonVO age="22">
+            <name>세사람</name>
+            <gender>여자</gender>
+            <register>2021년 12월 09일 12:49:22</register>
+        </PersonVO>
+        <PersonVO age="33">
+            <name>네사람</name>
+            <gender>남자</gender>
+            <register>2021년 12월 09일 12:49:22</register>
+        </PersonVO>
+    </list>
+    <arrays>
+        <PersonVO age="25">
+            <name>한사람</name>
+            <gender>남자</gender>
+            <register>2021년 12월 09일 12:49:22</register>
+        </PersonVO>
+        <PersonVO age="11">
+            <name>두사람</name>
+            <gender>남자</gender>
+            <register>2021년 12월 09일 12:49:22</register>
+        </PersonVO>
+    </arrays>
+</classVO>
