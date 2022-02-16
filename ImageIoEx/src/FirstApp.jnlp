@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="0.2.1.0" codebase="http://127.0.0.1:8080/" href="FirstApp.jnlp">
+	<information>
+		<title>First App</title>
+		<vendor>First company</vendor>
+		<homepage href="sample.html" />
+		<description>This is my first JWS application.</description>
+		<icon href="img2.jpg" />
+		<offline-allowed />
+	</information>
+	<resources>
+		<j2se version="1.3+" />
+		<jar href="Puzzle.jar" />
+	</resources>
+	<application-desc main-class="ImagePuzzle01" />
+</jnlp>
